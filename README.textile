@@ -1,0 +1,3 @@
+h1. Rock Paper Scissors Legacy Version
+
+p. This was my original version of the Rock Paper Scissors artificial intelligence that I used for my high school senior focus project. The project works by analyzing the users response to his own patterns as well as the patterns of the computer. It then uses exponential smoothing to create a "mind" vector in Rock Paper Scissors space. The dimension that is furthest away from the origin is the most likely to be played next turn. The computer then plays the winning move in the hope to win
